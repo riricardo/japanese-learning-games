@@ -1,0 +1,2602 @@
+[
+  {
+    "question": "Choose the correct kanji for \"December\".",
+    "answerOptions": [
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "Correct. December is written as 十二月 and read じゅうにがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"December\" is read じゅうにがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"十二月\"?",
+    "answerOptions": [
+      {
+        "text": "December",
+        "rationale": "Correct. 十二月 represents December and is read じゅうにがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 十二月 is read じゅうにがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"March\".",
+    "answerOptions": [
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "三月",
+        "rationale": "Correct. March is written as 三月 and read さんがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"March\" is read さんがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"三月\" represent?",
+    "answerOptions": [
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "Correct. 三月 represents March and is read さんがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 三月 is read さんがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"August\"?",
+    "answerOptions": [
+      {
+        "text": "八月",
+        "rationale": "Correct. August is written as 八月 and read はちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"August\" is read はちがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"四月\".",
+    "answerOptions": [
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "April",
+        "rationale": "Correct. 四月 represents April and is read しがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 四月 is read しがつ."
+  },
+  {
+    "question": "How do you write \"January\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "一月",
+        "rationale": "Correct. January is written as 一月 and read いちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"January\" is read いちがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"十月\"?",
+    "answerOptions": [
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "Correct. 十月 represents October and is read じゅうがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 十月 is read じゅうがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"August\"?",
+    "answerOptions": [
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "Correct. August is written as 八月 and read はちがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"August\" is read はちがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"十二月\" represent?",
+    "answerOptions": [
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "Correct. 十二月 represents December and is read じゅうにがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 十二月 is read じゅうにがつ."
+  },
+  {
+    "question": "How do you write \"October\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "Correct. October is written as 十月 and read じゅうがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"October\" is read じゅうがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"七月\".",
+    "answerOptions": [
+      {
+        "text": "July",
+        "rationale": "Correct. 七月 represents July and is read しちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 七月 is read しちがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"July\"?",
+    "answerOptions": [
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "Correct. July is written as 七月 and read しちがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"July\" is read しちがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"六月\" represent?",
+    "answerOptions": [
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "Correct. 六月 represents June and is read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 六月 is read ろくがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"September\".",
+    "answerOptions": [
+      {
+        "text": "九月",
+        "rationale": "Correct. September is written as 九月 and read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "三月",
+        "rationale": "三月 is the kanji for March (さんがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"September\" is read くがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"三月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "Correct. 三月 represents March and is read さんがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 三月 is read さんがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"November\".",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "Correct. November is written as 十一月 and read じゅういちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"November\" is read じゅういちがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"九月\"?",
+    "answerOptions": [
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"February\"?",
+    "answerOptions": [
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "Correct. February is written as 二月 and read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"February\" is read にがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"三月\"?",
+    "answerOptions": [
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "Correct. 三月 represents March and is read さんがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 三月 is read さんがつ."
+  },
+  {
+    "question": "How do you write \"May\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "Correct. May is written as 五月 and read ごがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"May\" is read ごがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"一月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "January",
+        "rationale": "Correct. 一月 represents January and is read いちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 一月 is read いちがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"June\"?",
+    "answerOptions": [
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"二月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "Correct. 二月 represents February and is read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 二月 is read にがつ."
+  },
+  {
+    "question": "How do you write \"October\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "Correct. October is written as 十月 and read じゅうがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"October\" is read じゅうがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"四月\".",
+    "answerOptions": [
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "April",
+        "rationale": "Correct. 四月 represents April and is read しがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 四月 is read しがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"May\"?",
+    "answerOptions": [
+      {
+        "text": "五月",
+        "rationale": "Correct. May is written as 五月 and read ごがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"May\" is read ごがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"十月\" represent?",
+    "answerOptions": [
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "Correct. 十月 represents October and is read じゅうがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 十月 is read じゅうがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"November\"?",
+    "answerOptions": [
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十一月",
+        "rationale": "Correct. November is written as 十一月 and read じゅういちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"November\" is read じゅういちがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"二月\" represent?",
+    "answerOptions": [
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "Correct. 二月 represents February and is read にがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 二月 is read にがつ."
+  },
+  {
+    "question": "How do you write \"March\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "三月",
+        "rationale": "Correct. March is written as 三月 and read さんがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"March\" is read さんがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"十二月\" represent?",
+    "answerOptions": [
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "Correct. 十二月 represents December and is read じゅうにがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 十二月 is read じゅうにがつ."
+  },
+  {
+    "question": "How do you write \"September\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "Correct. September is written as 九月 and read くがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"September\" is read くがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"七月\"?",
+    "answerOptions": [
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "July",
+        "rationale": "Correct. 七月 represents July and is read しちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 七月 is read しちがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"February\".",
+    "answerOptions": [
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "Correct. February is written as 二月 and read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"February\" is read にがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"八月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "August",
+        "rationale": "Correct. 八月 represents August and is read はちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 八月 is read はちがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"July\"?",
+    "answerOptions": [
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "Correct. July is written as 七月 and read しちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"July\" is read しちがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"九月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "How do you write \"July\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "Correct. July is written as 七月 and read しちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"July\" is read しちがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"八月\".",
+    "answerOptions": [
+      {
+        "text": "August",
+        "rationale": "Correct. 八月 represents August and is read はちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 八月 is read はちがつ."
+  },
+  {
+    "question": "How do you write \"April\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "Correct. April is written as 四月 and read しがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"April\" is read しがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"六月\"?",
+    "answerOptions": [
+      {
+        "text": "June",
+        "rationale": "Correct. 六月 represents June and is read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 六月 is read ろくがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"January\"?",
+    "answerOptions": [
+      {
+        "text": "一月",
+        "rationale": "Correct. January is written as 一月 and read いちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"January\" is read いちがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"一月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "January",
+        "rationale": "Correct. 一月 represents January and is read いちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 一月 is read いちがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"April\"?",
+    "answerOptions": [
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "Correct. April is written as 四月 and read しがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"April\" is read しがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"九月\"?",
+    "answerOptions": [
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"June\"?",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"六月\" represent?",
+    "answerOptions": [
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "Correct. 六月 represents June and is read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 六月 is read ろくがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"January\"?",
+    "answerOptions": [
+      {
+        "text": "一月",
+        "rationale": "Correct. January is written as 一月 and read いちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"January\" is read いちがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"十二月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "December",
+        "rationale": "Correct. 十二月 represents December and is read じゅうにがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 十二月 is read じゅうにがつ."
+  },
+  {
+    "question": "How do you write \"May\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "Correct. May is written as 五月 and read ごがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"May\" is read ごがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"九月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "How do you write \"October\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "十月",
+        "rationale": "Correct. October is written as 十月 and read じゅうがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"October\" is read じゅうがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"九月\".",
+    "answerOptions": [
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"August\"?",
+    "answerOptions": [
+      {
+        "text": "八月",
+        "rationale": "Correct. August is written as 八月 and read はちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"August\" is read はちがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"六月\" represent?",
+    "answerOptions": [
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "Correct. 六月 represents June and is read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 六月 is read ろくがつ."
+  },
+  {
+    "question": "How do you write \"September\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "Correct. September is written as 九月 and read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"September\" is read くがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"九月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"August\".",
+    "answerOptions": [
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "Correct. August is written as 八月 and read はちがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"August\" is read はちがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"十月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "Correct. 十月 represents October and is read じゅうがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 十月 is read じゅうがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"February\".",
+    "answerOptions": [
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "Correct. February is written as 二月 and read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "三月",
+        "rationale": "三月 is the kanji for March (さんがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"February\" is read にがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"二月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "Correct. 二月 represents February and is read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 二月 is read にがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"July\"?",
+    "answerOptions": [
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "Correct. July is written as 七月 and read しちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"July\" is read しちがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"三月\"?",
+    "answerOptions": [
+      {
+        "text": "March",
+        "rationale": "Correct. 三月 represents March and is read さんがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 三月 is read さんがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"November\"?",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "Correct. November is written as 十一月 and read じゅういちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "三月",
+        "rationale": "三月 is the kanji for March (さんがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"November\" is read じゅういちがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"六月\".",
+    "answerOptions": [
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "Correct. 六月 represents June and is read ろくがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 六月 is read ろくがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"November\".",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "Correct. November is written as 十一月 and read じゅういちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"November\" is read じゅういちがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"五月\"?",
+    "answerOptions": [
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "May",
+        "rationale": "Correct. 五月 represents May and is read ごがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 五月 is read ごがつ."
+  },
+  {
+    "question": "How do you write \"February\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "二月",
+        "rationale": "Correct. February is written as 二月 and read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "三月",
+        "rationale": "三月 is the kanji for March (さんがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"February\" is read にがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"一月\"?",
+    "answerOptions": [
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "Correct. 一月 represents January and is read いちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 一月 is read いちがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"April\".",
+    "answerOptions": [
+      {
+        "text": "四月",
+        "rationale": "Correct. April is written as 四月 and read しがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "三月",
+        "rationale": "三月 is the kanji for March (さんがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"April\" is read しがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"九月\".",
+    "answerOptions": [
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "How do you write \"August\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "三月",
+        "rationale": "三月 is the kanji for March (さんがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "Correct. August is written as 八月 and read はちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"August\" is read はちがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"五月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "May",
+        "rationale": "Correct. 五月 represents May and is read ごがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 五月 is read ごがつ."
+  },
+  {
+    "question": "How do you write \"June\" in Japanese kanji?",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"二月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "February",
+        "rationale": "Correct. 二月 represents February and is read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 二月 is read にがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"May\"?",
+    "answerOptions": [
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "Correct. May is written as 五月 and read ごがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"May\" is read ごがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"七月\"?",
+    "answerOptions": [
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "July",
+        "rationale": "Correct. 七月 represents July and is read しちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 七月 is read しちがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"October\"?",
+    "answerOptions": [
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "Correct. October is written as 十月 and read じゅうがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"October\" is read じゅうがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"四月\".",
+    "answerOptions": [
+      {
+        "text": "April",
+        "rationale": "Correct. 四月 represents April and is read しがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 四月 is read しがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"June\"?",
+    "answerOptions": [
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"二月\" represent?",
+    "answerOptions": [
+      {
+        "text": "February",
+        "rationale": "Correct. 二月 represents February and is read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 二月 is read にがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"December\"?",
+    "answerOptions": [
+      {
+        "text": "十二月",
+        "rationale": "Correct. December is written as 十二月 and read じゅうにがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"December\" is read じゅうにがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"六月\"?",
+    "answerOptions": [
+      {
+        "text": "June",
+        "rationale": "Correct. 六月 represents June and is read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "July",
+        "rationale": "July is written as 七月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 六月 is read ろくがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"June\"?",
+    "answerOptions": [
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"十一月\"?",
+    "answerOptions": [
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "November",
+        "rationale": "Correct. 十一月 represents November and is read じゅういちがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 十一月 is read じゅういちがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"March\"?",
+    "answerOptions": [
+      {
+        "text": "六月",
+        "rationale": "六月 is the kanji for June (ろくがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "三月",
+        "rationale": "Correct. March is written as 三月 and read さんがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"March\" is read さんがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"八月\"?",
+    "answerOptions": [
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "Correct. 八月 represents August and is read はちがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 八月 is read はちがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"August\".",
+    "answerOptions": [
+      {
+        "text": "十一月",
+        "rationale": "十一月 is the kanji for November (じゅういちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "Correct. August is written as 八月 and read はちがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"August\" is read はちがつ in Japanese."
+  },
+  {
+    "question": "The kanji \"二月\" corresponds to which month?",
+    "answerOptions": [
+      {
+        "text": "February",
+        "rationale": "Correct. 二月 represents February and is read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "June",
+        "rationale": "June is written as 六月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 二月 is read にがつ."
+  },
+  {
+    "question": "What is the Japanese kanji for \"June\"?",
+    "answerOptions": [
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "二月",
+        "rationale": "二月 is the kanji for February (にがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "What month is written as \"四月\"?",
+    "answerOptions": [
+      {
+        "text": "April",
+        "rationale": "Correct. 四月 represents April and is read しがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "January",
+        "rationale": "January is written as 一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "March is written as 三月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 四月 is read しがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"June\".",
+    "answerOptions": [
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"三月\".",
+    "answerOptions": [
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "August",
+        "rationale": "August is written as 八月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "March",
+        "rationale": "Correct. 三月 represents March and is read さんがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 三月 is read さんがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"June\".",
+    "answerOptions": [
+      {
+        "text": "九月",
+        "rationale": "九月 is the kanji for September (くがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "五月",
+        "rationale": "五月 is the kanji for May (ごがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "六月",
+        "rationale": "Correct. June is written as 六月 and read ろくがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "一月",
+        "rationale": "一月 is the kanji for January (いちがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"June\" is read ろくがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"九月\" represent?",
+    "answerOptions": [
+      {
+        "text": "November",
+        "rationale": "November is written as 十一月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "April",
+        "rationale": "April is written as 四月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  },
+  {
+    "question": "Which kanji represents the month \"March\"?",
+    "answerOptions": [
+      {
+        "text": "十月",
+        "rationale": "十月 is the kanji for October (じゅうがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "十二月",
+        "rationale": "十二月 is the kanji for December (じゅうにがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "三月",
+        "rationale": "Correct. March is written as 三月 and read さんがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The month \"March\" is read さんがつ in Japanese."
+  },
+  {
+    "question": "Which month does the kanji \"十二月\" represent?",
+    "answerOptions": [
+      {
+        "text": "September",
+        "rationale": "September is written as 九月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "December",
+        "rationale": "Correct. 十二月 represents December and is read じゅうにがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "May",
+        "rationale": "May is written as 五月 in Japanese.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The kanji 十二月 is read じゅうにがつ."
+  },
+  {
+    "question": "Choose the correct kanji for \"February\".",
+    "answerOptions": [
+      {
+        "text": "八月",
+        "rationale": "八月 is the kanji for August (はちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "七月",
+        "rationale": "七月 is the kanji for July (しちがつ).",
+        "isCorrect": false
+      },
+      {
+        "text": "二月",
+        "rationale": "Correct. February is written as 二月 and read にがつ.",
+        "isCorrect": true
+      },
+      {
+        "text": "四月",
+        "rationale": "四月 is the kanji for April (しがつ).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The month \"February\" is read にがつ in Japanese."
+  },
+  {
+    "question": "Choose the correct English month for \"九月\".",
+    "answerOptions": [
+      {
+        "text": "December",
+        "rationale": "December is written as 十二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "February",
+        "rationale": "February is written as 二月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "October",
+        "rationale": "October is written as 十月 in Japanese.",
+        "isCorrect": false
+      },
+      {
+        "text": "September",
+        "rationale": "Correct. 九月 represents September and is read くがつ.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The kanji 九月 is read くがつ."
+  }
+]

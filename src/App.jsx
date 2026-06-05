@@ -9,6 +9,18 @@ const games = [
     description: 'Practice days 1 to 31 in Japanese.',
     dataUrl: '/src/data/days-of-month.json',
   },
+  {
+    id: 'months',
+    title: 'Japanese Months',
+    description: 'Practice the months of the year in Japanese.',
+    dataUrl: '/src/data/months.json',
+  },
+  {
+    id: 'weekdays',
+    title: 'Japanese Weekdays',
+    description: 'Practice the days of the week in Japanese.',
+    dataUrl: '/src/data/weekdays.json',
+  },
 ];
 
 const dataFiles = import.meta.glob('./data/*.json', {

@@ -3,10 +3,9 @@ export default function QuestionCard({
   answerOptions,
   selectedAnswer,
   onSelectAnswer,
-  onNextQuestion,
+  isLocked = false,
 }) {
   const hasAnswered = Boolean(selectedAnswer);
-  const selectedCorrectly = selectedAnswer?.isCorrect;
 
   function getAnswerClass(option) {
     if (!hasAnswered) {
@@ -34,30 +33,13 @@ export default function QuestionCard({
             className={getAnswerClass(option)}
             type="button"
             key={option.text}
-            disabled={hasAnswered}
+            disabled={hasAnswered || isLocked}
             onClick={() => onSelectAnswer(option)}
           >
             {option.text}
           </button>
         ))}
       </div>
-
-      {hasAnswered && (
-        <div className="feedback-panel" aria-live="polite">
-          <p className={selectedCorrectly ? 'feedback-title correct-text' : 'feedback-title wrong-text'}>
-            {selectedCorrectly ? 'Correct' : 'Incorrect'}
-          </p>
-          {selectedAnswer.rationale && <p>{selectedAnswer.rationale}</p>}
-          {question.hint && (
-            <p>
-              <strong>Hint:</strong> {question.hint}
-            </p>
-          )}
-          <button className="primary-button next-button" type="button" onClick={onNextQuestion}>
-            Next Question
-          </button>
-        </div>
-      )}
     </article>
   );
 }

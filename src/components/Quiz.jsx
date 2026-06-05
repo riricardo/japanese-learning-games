@@ -31,6 +31,10 @@ export default function Quiz({ game, onBack }) {
   const [answerOptions, setAnswerOptions] = useState([]);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
   const [score, setScore] = useState(initialScore);
+  const [showFeedback, setShowFeedback] = useState(true);
+  const [isFeedbackPromptOpen, setIsFeedbackPromptOpen] = useState(true);
+  const [isResultOpen, setIsResultOpen] = useState(false);
+  const [isAdvancing, setIsAdvancing] = useState(false);
   const [status, setStatus] = useState('loading');
   const [error, setError] = useState('');
 
@@ -84,12 +88,7 @@ export default function Quiz({ game, onBack }) {
     };
   }, [game.dataUrl]);
 
-  function handleAnswer(answer) {
-    if (selectedAnswer) {
-      return;
-    }
-
-    setSelectedAnswer(answer);
+  function recordAnswer(answer) {
     setScore((currentScore) => {
       const nextCorrect = currentScore.correct + (answer.isCorrect ? 1 : 0);
       const nextWrong = currentScore.wrong + (answer.isCorrect ? 0 : 1);
@@ -105,12 +104,44 @@ export default function Quiz({ game, onBack }) {
     });
   }
 
+  function handleAnswer(answer) {
+    if (selectedAnswer || isAdvancing || isFeedbackPromptOpen) {
+      return;
+    }
+
+    recordAnswer(answer);
+
+    if (showFeedback) {
+      setSelectedAnswer(answer);
+      setIsResultOpen(true);
+      return;
+    }
+
+    setIsAdvancing(true);
+    setTimeout(() => {
+      showNextQuestion();
+      setIsAdvancing(false);
+    }, 160);
+  }
+
   function showNextQuestion() {
     const nextQuestion = pickQuestion(questions, currentQuestion);
     setCurrentQuestion(nextQuestion);
     setAnswerOptions(shuffle(nextQuestion.answerOptions || []));
     setSelectedAnswer(null);
+    setIsResultOpen(false);
   }
+
+  function closeResultAndContinue() {
+    showNextQuestion();
+  }
+
+  function chooseFeedbackMode(shouldShowFeedback) {
+    setShowFeedback(shouldShowFeedback);
+    setIsFeedbackPromptOpen(false);
+  }
+
+  const selectedCorrectly = selectedAnswer?.isCorrect;
 
   return (
     <section className="quiz-screen" aria-labelledby="quiz-title">
@@ -139,9 +170,67 @@ export default function Quiz({ game, onBack }) {
             answerOptions={answerOptions}
             selectedAnswer={selectedAnswer}
             onSelectAnswer={handleAnswer}
-            onNextQuestion={showNextQuestion}
+            isLocked={isAdvancing || isFeedbackPromptOpen}
           />
-          <ScoreBoard score={score} accuracy={accuracy} />
+          <ScoreBoard
+            score={score}
+            accuracy={accuracy}
+            showFeedback={showFeedback}
+            onToggleFeedback={setShowFeedback}
+          />
+        </div>
+      )}
+
+      {status === 'ready' && isFeedbackPromptOpen && (
+        <div className="modal-backdrop" role="presentation">
+          <section
+            className="modal-panel feedback-choice-modal"
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="feedback-choice-title"
+          >
+            <div>
+              <p className="eyebrow">Before You Start</p>
+              <h2 id="feedback-choice-title">Show answer feedback?</h2>
+            </div>
+            <p>
+              Feedback opens a result modal after each answer with the explanation and hint. You can also
+              skip it and move straight to the next question.
+            </p>
+            <div className="modal-actions">
+              <button className="primary-button" type="button" onClick={() => chooseFeedbackMode(true)}>
+                With Feedback
+              </button>
+              <button className="text-button" type="button" onClick={() => chooseFeedbackMode(false)}>
+                Skip Feedback
+              </button>
+            </div>
+          </section>
+        </div>
+      )}
+
+      {isResultOpen && selectedAnswer && currentQuestion && (
+        <div className="modal-backdrop" role="presentation">
+          <section
+            className="modal-panel result-modal"
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="answer-result-title"
+          >
+            <p className={selectedCorrectly ? 'feedback-title correct-text' : 'feedback-title wrong-text'}>
+              {selectedCorrectly ? 'Correct' : 'Incorrect'}
+            </p>
+            <h2 id="answer-result-title">{selectedAnswer.text}</h2>
+            {selectedAnswer.rationale && <p>{selectedAnswer.rationale}</p>}
+            {currentQuestion.hint && (
+              <p>
+                <strong>Hint:</strong> {currentQuestion.hint}
+              </p>
+            )}
+            <button className="primary-button next-button" type="button" onClick={closeResultAndContinue}>
+              Next Question
+            </button>
+          </section>
         </div>
       )}
     </section>

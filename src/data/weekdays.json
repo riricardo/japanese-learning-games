@@ -1,0 +1,2602 @@
+[
+  {
+    "question": "Which option correctly reads the weekday kanji \"金曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Gold/metal day. That clue points to Friday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"火曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 火. It gives the main clue for Tuesday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"火曜日\"?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "How do you read \"土曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "This weekday is associated with Earth/soil day. That clue points to Saturday."
+  },
+  {
+    "question": "In Japanese, how is \"木曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 木曜日 means Thursday. The full reading ends with ようび."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"月曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Moon day. That clue points to Monday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"月曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 水曜日 means Wednesday. The full reading ends with ようび."
+  },
+  {
+    "question": "In Japanese, how is \"金曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Gold/metal day. That clue points to Friday."
+  },
+  {
+    "question": "How do you read \"金曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 金曜日 means Friday. The full reading ends with ようび."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"火曜日\".",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"月曜日\"?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Moon day. That clue points to Monday."
+  },
+  {
+    "question": "How do you read \"日曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 日曜日 means Sunday. The full reading ends with ようび."
+  },
+  {
+    "question": "How do you read \"土曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "This weekday is associated with Earth/soil day. That clue points to Saturday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"月曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 水. It gives the main clue for Wednesday."
+  },
+  {
+    "question": "In Japanese, how is \"火曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 火. It gives the main clue for Tuesday."
+  },
+  {
+    "question": "In Japanese, how is \"木曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "This weekday is associated with Wood day. That clue points to Thursday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"火曜日\"?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 火. It gives the main clue for Tuesday."
+  },
+  {
+    "question": "How do you read \"月曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 月曜日 means Monday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"木曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 木曜日 means Thursday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"土曜日\"?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "This weekday is associated with Earth/soil day. That clue points to Saturday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 水曜日 means Wednesday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"月曜日\"?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 月. It gives the main clue for Monday."
+  },
+  {
+    "question": "In Japanese, how is \"水曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 水曜日 means Wednesday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"日曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 日曜日 means Sunday. The full reading ends with ようび."
+  },
+  {
+    "question": "How do you read \"金曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "How do you read \"木曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Wood day. That clue points to Thursday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"土曜日\"?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 土曜日 means Saturday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"日曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"金曜日\".",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 金. It gives the main clue for Friday."
+  },
+  {
+    "question": "How do you read \"日曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "This weekday is associated with Sun day. That clue points to Sunday."
+  },
+  {
+    "question": "In Japanese, how is \"水曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Water day. That clue points to Wednesday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"金曜日\"?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 金曜日 means Friday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"火曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 火曜日 means Tuesday. The full reading ends with ようび."
+  },
+  {
+    "question": "How do you read \"木曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 木. It gives the main clue for Thursday."
+  },
+  {
+    "question": "In Japanese, how is \"日曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 日. It gives the main clue for Sunday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"日曜日\".",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Sun day. That clue points to Sunday."
+  },
+  {
+    "question": "In Japanese, how is \"火曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Fire day. That clue points to Tuesday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"金曜日\"?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "In Japanese, how is \"金曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Gold/metal day. That clue points to Friday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"火曜日\"?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 火曜日 means Tuesday. The full reading ends with ようび."
+  },
+  {
+    "question": "How do you read \"木曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"月曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Water day. That clue points to Wednesday."
+  },
+  {
+    "question": "In Japanese, how is \"金曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 金. It gives the main clue for Friday."
+  },
+  {
+    "question": "How do you read \"日曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Sun day. That clue points to Sunday."
+  },
+  {
+    "question": "In Japanese, how is \"月曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 月. It gives the main clue for Monday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"月曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 月. It gives the main clue for Monday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 水曜日 means Wednesday. The full reading ends with ようび."
+  },
+  {
+    "question": "In Japanese, how is \"日曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Sun day. That clue points to Sunday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 水. It gives the main clue for Wednesday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"金曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 金曜日 means Friday. The full reading ends with ようび."
+  },
+  {
+    "question": "How do you read \"土曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "In Japanese, how is \"火曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Fire day. That clue points to Tuesday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"土曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Earth/soil day. That clue points to Saturday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"木曜日\".",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 木. It gives the main clue for Thursday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 水曜日 means Wednesday. The full reading ends with ようび."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"土曜日\".",
+    "answerOptions": [
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 土. It gives the main clue for Saturday."
+  },
+  {
+    "question": "How do you read \"木曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 木曜日 means Thursday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"木曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Wood day. That clue points to Thursday."
+  },
+  {
+    "question": "In Japanese, how is \"火曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 火曜日 means Tuesday. The full reading ends with ようび."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"土曜日\".",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 土. It gives the main clue for Saturday."
+  },
+  {
+    "question": "How do you read \"木曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 木曜日 means Thursday. The full reading ends with ようび."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"火曜日\"?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 火. It gives the main clue for Tuesday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"月曜日\".",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"日曜日\".",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"日曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 日曜日 means Sunday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"土曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Earth/soil day. That clue points to Saturday."
+  },
+  {
+    "question": "How do you read \"月曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"土曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 土曜日 means Saturday. The full reading ends with ようび."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"日曜日\".",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 日曜日 means Sunday. The full reading ends with ようび."
+  },
+  {
+    "question": "In Japanese, how is \"月曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 月曜日 means Monday. The full reading ends with ようび."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"日曜日\".",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"土曜日\".",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Earth/soil day. That clue points to Saturday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"日曜日\"?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 日. It gives the main clue for Sunday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "How do you read \"月曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "This weekday is associated with Moon day. That clue points to Monday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"木曜日\"?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 木曜日 means Thursday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"日曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 日曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "Correct. 日曜日 is read にちようび and means Sunday.",
+        "isCorrect": true
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 日曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 日. It gives the main clue for Sunday."
+  },
+  {
+    "question": "How do you read \"水曜日\" in hiragana?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 水. It gives the main clue for Wednesday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"土曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 土. It gives the main clue for Saturday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"土曜日\"?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"木曜日\".",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 木曜日 means Thursday. The full reading ends with ようび."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"木曜日\"?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Wood day. That clue points to Thursday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"水曜日\".",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "This weekday is associated with Water day. That clue points to Wednesday."
+  },
+  {
+    "question": "In Japanese, how is \"金曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Look at the first kanji: 金. It gives the main clue for Friday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"金曜日\"?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "In Japanese, how is \"金曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 金曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Look at the first kanji: 金. It gives the main clue for Friday."
+  },
+  {
+    "question": "In Japanese, how is \"木曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 木曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "Correct. 木曜日 is read もくようび and means Thursday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "In Japanese, how is \"火曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"水曜日\".",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"土曜日\".",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "Correct. 土曜日 is read どようび and means Saturday.",
+        "isCorrect": true
+      },
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 土曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 土曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"月曜日\".",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "Correct. 月曜日 is read げつようび and means Monday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 月曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 月曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Remember: 月曜日 means Monday. The full reading ends with ようび."
+  },
+  {
+    "question": "In Japanese, how is \"火曜日\" read?",
+    "answerOptions": [
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Which option correctly reads the weekday kanji \"火曜日\"?",
+    "answerOptions": [
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"水曜日\"?",
+    "answerOptions": [
+      {
+        "text": "すいようび",
+        "rationale": "Correct. 水曜日 is read すいようび and means Wednesday.",
+        "isCorrect": true
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "どようび",
+        "rationale": "どようび is the reading for 土曜日 (Saturday), not 水曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "げつようび",
+        "rationale": "げつようび is the reading for 月曜日 (Monday), not 水曜日.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The ending 曜日 is read ようび. Focus on the first kanji to identify the weekday."
+  },
+  {
+    "question": "Choose the correct hiragana reading for \"火曜日\".",
+    "answerOptions": [
+      {
+        "text": "きんようび",
+        "rationale": "きんようび is the reading for 金曜日 (Friday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "もくようび",
+        "rationale": "もくようび is the reading for 木曜日 (Thursday), not 火曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "かようび",
+        "rationale": "Correct. 火曜日 is read かようび and means Tuesday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "Remember: 火曜日 means Tuesday. The full reading ends with ようび."
+  },
+  {
+    "question": "What is the hiragana pronunciation of \"金曜日\"?",
+    "answerOptions": [
+      {
+        "text": "かようび",
+        "rationale": "かようび is the reading for 火曜日 (Tuesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "すいようび",
+        "rationale": "すいようび is the reading for 水曜日 (Wednesday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "にちようび",
+        "rationale": "にちようび is the reading for 日曜日 (Sunday), not 金曜日.",
+        "isCorrect": false
+      },
+      {
+        "text": "きんようび",
+        "rationale": "Correct. 金曜日 is read きんようび and means Friday.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "This weekday is associated with Gold/metal day. That clue points to Friday."
+  }
+]
