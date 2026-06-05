@@ -532,27 +532,48 @@ h2 {
   left: 50%;
   top: 14px;
   min-width: min(180px, calc(100% - 32px));
-  transform: translateX(-50%);
+  transform: translate(-50%, -8px);
   padding: 9px 14px;
   border: 1px solid var(--border);
   border-radius: 8px;
-  background: var(--surface);
+  background: rgba(255, 255, 255, 0.78);
   box-shadow: 0 10px 24px rgba(150, 43, 53, 0.1);
   font-size: 0.9rem;
   font-weight: 800;
   text-align: center;
+  opacity: 0;
+  animation: toast-fade 700ms ease both;
+  backdrop-filter: blur(10px);
 }
 
 .correct-toast {
   border-color: #9ed8ad;
-  background: #effaf2;
+  background: rgba(239, 250, 242, 0.82);
   color: #176b32;
 }
 
 .wrong-toast {
   border-color: var(--danger);
-  background: var(--danger-soft);
+  background: rgba(255, 229, 231, 0.86);
   color: var(--danger);
+}
+
+@keyframes toast-fade {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, -10px);
+  }
+
+  18%,
+  78% {
+    opacity: 0.92;
+    transform: translate(-50%, 0);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -8px);
+  }
 }
 
 .notice {
