@@ -35,6 +35,7 @@ export default function Quiz({ game, onBack }) {
   const [isFeedbackPromptOpen, setIsFeedbackPromptOpen] = useState(true);
   const [isResultOpen, setIsResultOpen] = useState(false);
   const [isAdvancing, setIsAdvancing] = useState(false);
+  const [quickFeedback, setQuickFeedback] = useState(null);
   const [status, setStatus] = useState('loading');
   const [error, setError] = useState('');
 
@@ -118,10 +119,16 @@ export default function Quiz({ game, onBack }) {
     }
 
     setIsAdvancing(true);
+    setQuickFeedback({
+      isCorrect: answer.isCorrect,
+      text: answer.isCorrect ? 'Correct' : 'Incorrect',
+    });
+
     setTimeout(() => {
       showNextQuestion();
+      setQuickFeedback(null);
       setIsAdvancing(false);
-    }, 160);
+    }, 700);
   }
 
   function showNextQuestion() {
@@ -130,6 +137,7 @@ export default function Quiz({ game, onBack }) {
     setAnswerOptions(shuffle(nextQuestion.answerOptions || []));
     setSelectedAnswer(null);
     setIsResultOpen(false);
+    setQuickFeedback(null);
   }
 
   function closeResultAndContinue() {
@@ -146,8 +154,8 @@ export default function Quiz({ game, onBack }) {
   return (
     <section className="quiz-screen" aria-labelledby="quiz-title">
       <header className="quiz-topbar">
-        <button className="text-button" type="button" onClick={onBack}>
-          Back to Home
+        <button className="icon-button" type="button" onClick={onBack} aria-label="Back to Home">
+          <span aria-hidden="true">&larr;</span>
         </button>
         <div>
           <p className="eyebrow">Infinite Practice Mode</p>
@@ -178,6 +186,16 @@ export default function Quiz({ game, onBack }) {
             showFeedback={showFeedback}
             onToggleFeedback={setShowFeedback}
           />
+        </div>
+      )}
+
+      {quickFeedback && (
+        <div
+          className={quickFeedback.isCorrect ? 'quick-feedback correct-toast' : 'quick-feedback wrong-toast'}
+          role="status"
+          aria-live="polite"
+        >
+          {quickFeedback.text}
         </div>
       )}
 
