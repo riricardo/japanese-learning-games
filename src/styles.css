@@ -34,6 +34,14 @@ body {
 
 button {
   font: inherit;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button * {
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .app-shell {
@@ -61,95 +69,16 @@ button {
 
 .theme-icons {
   display: flex;
-  gap: 12px;
+  gap: 10px;
   align-items: center;
   margin-bottom: 4px;
+  font-size: 2rem;
 }
 
-.japan-flag-icon,
-.sakura-icon,
 .game-icon {
-  position: relative;
   display: inline-grid;
   place-items: center;
   flex: 0 0 auto;
-}
-
-.japan-flag-icon {
-  width: 54px;
-  height: 36px;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: #ffffff;
-  box-shadow: 0 10px 28px rgba(150, 43, 53, 0.1);
-}
-
-.japan-flag-icon::before {
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 999px;
-  background: var(--accent);
-}
-
-.sakura-icon {
-  width: 42px;
-  height: 42px;
-}
-
-.sakura-icon::before,
-.sakura-icon::after,
-.sakura-icon span,
-.sakura-icon span::before,
-.sakura-icon span::after {
-  content: "";
-  position: absolute;
-  width: 15px;
-  height: 22px;
-  border-radius: 999px 999px 70% 70%;
-  background: #ffd5dc;
-  border: 1px solid #f2a6b4;
-  transform-origin: 50% 100%;
-}
-
-.sakura-icon::before {
-  transform: translateY(-11px);
-}
-
-.sakura-icon::after {
-  transform: rotate(72deg) translateY(-11px);
-}
-
-.sakura-icon span {
-  transform: rotate(144deg) translateY(-11px);
-}
-
-.sakura-icon span::before {
-  transform: rotate(72deg) translateY(-11px);
-}
-
-.sakura-icon span::after {
-  transform: rotate(144deg) translateY(-11px);
-}
-
-.sakura-icon::before,
-.sakura-icon::after,
-.sakura-icon span,
-.sakura-icon span::before,
-.sakura-icon span::after {
-  top: 10px;
-  left: 13px;
-}
-
-.sakura-icon::before {
-  z-index: 1;
-}
-
-.sakura-icon::after,
-.sakura-icon span,
-.sakura-icon span::before,
-.sakura-icon span::after {
-  z-index: 0;
 }
 
 .quiz-topbar {
@@ -240,71 +169,7 @@ h2 {
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--surface-soft);
-}
-
-.flag-game-icon::before {
-  content: "";
-  width: 24px;
-  height: 16px;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: radial-gradient(circle, var(--accent) 0 5px, #ffffff 6px);
-}
-
-.sakura-game-icon .sakura-icon,
-.sakura-game-icon {
-  overflow: hidden;
-}
-
-.sakura-game-icon::before,
-.sakura-game-icon::after,
-.sakura-game-icon span {
-  content: "";
-  position: absolute;
-  top: 12px;
-  left: 13px;
-  width: 11px;
-  height: 17px;
-  border-radius: 999px 999px 70% 70%;
-  background: #ffd5dc;
-  border: 1px solid #f2a6b4;
-  transform-origin: 50% 100%;
-}
-
-.sakura-game-icon::before {
-  transform: translateY(-8px);
-}
-
-.sakura-game-icon::after {
-  transform: rotate(120deg) translateY(-8px);
-}
-
-.sakura-game-icon span {
-  transform: rotate(240deg) translateY(-8px);
-}
-
-.calendar-game-icon::before,
-.calendar-game-icon::after {
-  content: "";
-  position: absolute;
-}
-
-.calendar-game-icon::before {
-  width: 22px;
-  height: 24px;
-  border: 2px solid var(--accent);
-  border-radius: 5px;
-  background:
-    linear-gradient(var(--accent) 0 6px, transparent 6px),
-    #ffffff;
-}
-
-.calendar-game-icon::after {
-  width: 10px;
-  height: 10px;
-  border-radius: 999px;
-  background: var(--accent);
-  transform: translate(4px, 5px);
+  font-size: 1.35rem;
 }
 
 .primary-button,
@@ -332,14 +197,6 @@ h2 {
   padding: 0 22px;
   background: var(--accent);
   color: #ffffff;
-}
-
-.button-arrow {
-  width: 8px;
-  height: 8px;
-  border-top: 2px solid currentColor;
-  border-right: 2px solid currentColor;
-  transform: rotate(45deg);
 }
 
 .primary-button:hover,
@@ -534,6 +391,7 @@ h2 {
 }
 
 .modal-panel {
+  position: relative;
   display: grid;
   gap: 18px;
   width: min(100%, 520px);
@@ -565,6 +423,31 @@ h2 {
 
 .close-button {
   min-height: 42px;
+}
+
+.modal-close-icon {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  min-height: 36px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--accent-dark);
+  cursor: pointer;
+  font-size: 1.35rem;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.modal-close-icon:hover,
+.modal-close-icon:focus-visible {
+  border-color: var(--accent);
+  background: var(--surface-soft);
 }
 
 .score-details-list {
@@ -760,7 +643,4 @@ h2 {
     width: 100%;
   }
 
-  .modal-actions {
-    display: grid;
-  }
 }

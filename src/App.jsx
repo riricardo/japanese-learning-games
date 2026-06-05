@@ -8,21 +8,21 @@ const games = [
     title: 'Japanese Days of the Month',
     description: 'Practice days 1 to 31 in Japanese.',
     dataUrl: '/src/data/days-of-month.json',
-    icon: 'calendar',
+    icon: '📅',
   },
   {
     id: 'months',
     title: 'Japanese Months',
     description: 'Practice the months of the year in Japanese.',
     dataUrl: '/src/data/months.json',
-    icon: 'flag',
+    icon: '🇯🇵',
   },
   {
     id: 'weekdays',
     title: 'Japanese Weekdays',
     description: 'Practice the days of the week in Japanese.',
     dataUrl: '/src/data/weekdays.json',
-    icon: 'sakura',
+    icon: '🌸',
   },
 ];
 

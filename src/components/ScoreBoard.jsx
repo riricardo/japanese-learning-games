@@ -10,7 +10,7 @@ export default function ScoreBoard({ score, accuracy, showFeedback, onToggleFeed
         <strong>{accuracy}%</strong>
       </div>
       <div className="score-pill">
-        <span>Streak</span>
+        <span>Streak 🔥</span>
         <strong>{score.currentStreak}</strong>
       </div>
       <div className="score-pill">
@@ -18,7 +18,7 @@ export default function ScoreBoard({ score, accuracy, showFeedback, onToggleFeed
         <strong>{score.totalAnswered}</strong>
       </div>
       <button className="text-button score-details-button" type="button" onClick={() => setIsDetailsOpen(true)}>
-        Details
+        Details 📊
       </button>
 
       {isDetailsOpen && (
@@ -29,14 +29,19 @@ export default function ScoreBoard({ score, accuracy, showFeedback, onToggleFeed
             aria-modal="true"
             aria-labelledby="score-details-title"
           >
+            <button
+              className="modal-close-icon"
+              type="button"
+              onClick={() => setIsDetailsOpen(false)}
+              aria-label="Close details"
+            >
+              ×
+            </button>
             <div className="modal-header">
               <div>
                 <p className="eyebrow">Quiz Status</p>
-                <h2 id="score-details-title">Details</h2>
+                <h2 id="score-details-title">Details 📊</h2>
               </div>
-              <button className="text-button close-button" type="button" onClick={() => setIsDetailsOpen(false)}>
-                Close
-              </button>
             </div>
 
             <dl className="score-details-list">

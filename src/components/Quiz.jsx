@@ -121,7 +121,7 @@ export default function Quiz({ game, onBack }) {
     setIsAdvancing(true);
     setQuickFeedback({
       isCorrect: answer.isCorrect,
-      text: answer.isCorrect ? 'Correct' : 'Incorrect',
+      text: answer.isCorrect ? '✓ Correct' : '✕ Incorrect',
     });
 
     setTimeout(() => {
@@ -189,17 +189,7 @@ export default function Quiz({ game, onBack }) {
         </div>
       )}
 
-      {quickFeedback && (
-        <div
-          className={quickFeedback.isCorrect ? 'quick-feedback correct-toast' : 'quick-feedback wrong-toast'}
-          role="status"
-          aria-live="polite"
-        >
-          {quickFeedback.text}
-        </div>
-      )}
-
-      {status === 'ready' && isFeedbackPromptOpen && (
+      {isFeedbackPromptOpen && status !== 'error' && (
         <div className="modal-backdrop" role="presentation">
           <section
             className="modal-panel feedback-choice-modal"
@@ -209,21 +199,31 @@ export default function Quiz({ game, onBack }) {
           >
             <div>
               <p className="eyebrow">Before You Start</p>
-              <h2 id="feedback-choice-title">Show answer feedback?</h2>
+              <h2 id="feedback-choice-title">Show answer feedback? 💬</h2>
             </div>
             <p>
               Feedback opens a result modal after each answer with the explanation and hint. You can also
-              skip it and move straight to the next question.
+              skip it and move straight to the next question with a quick toast.
             </p>
             <div className="modal-actions">
               <button className="primary-button" type="button" onClick={() => chooseFeedbackMode(true)}>
-                With Feedback
+                With Feedback 💬
               </button>
               <button className="text-button" type="button" onClick={() => chooseFeedbackMode(false)}>
-                Skip Feedback
+                Skip Feedback ⚡
               </button>
             </div>
           </section>
+        </div>
+      )}
+
+      {quickFeedback && (
+        <div
+          className={quickFeedback.isCorrect ? 'quick-feedback correct-toast' : 'quick-feedback wrong-toast'}
+          role="status"
+          aria-live="polite"
+        >
+          {quickFeedback.text}
         </div>
       )}
 
@@ -236,7 +236,7 @@ export default function Quiz({ game, onBack }) {
             aria-labelledby="answer-result-title"
           >
             <p className={selectedCorrectly ? 'feedback-title correct-text' : 'feedback-title wrong-text'}>
-              {selectedCorrectly ? 'Correct' : 'Incorrect'}
+              {selectedCorrectly ? '✓ Correct' : '✕ Incorrect'}
             </p>
             <h2 id="answer-result-title">{selectedAnswer.text}</h2>
             {selectedAnswer.rationale && <p>{selectedAnswer.rationale}</p>}

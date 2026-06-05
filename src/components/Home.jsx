@@ -3,10 +3,9 @@ export default function Home({ games, onStartGame }) {
     <section className="home-screen" aria-labelledby="app-title">
       <div className="home-header">
         <div className="theme-icons" aria-hidden="true">
-          <span className="japan-flag-icon"></span>
-          <span className="sakura-icon">
-            <span></span>
-          </span>
+          <span>🇯🇵</span>
+          <span>🌸</span>
+          <span>✨</span>
         </div>
         <p className="eyebrow">Choose a Game</p>
         <h1 id="app-title">Japanese Quiz</h1>
@@ -18,16 +17,14 @@ export default function Home({ games, onStartGame }) {
           <article className="game-card" key={game.id}>
             <div>
               <div className="game-card-heading">
-                <span className={`game-icon ${game.icon}-game-icon`} aria-hidden="true">
-                  <span></span>
-                </span>
+                <span className="game-icon" aria-hidden="true">{game.icon}</span>
                 <h2>{game.title}</h2>
               </div>
               <p>{game.description}</p>
             </div>
             <button className="primary-button" type="button" onClick={() => onStartGame(game)}>
               <span>Start</span>
-              <span className="button-arrow" aria-hidden="true"></span>
+              <span aria-hidden="true">🎌</span>
             </button>
           </article>
         ))}
