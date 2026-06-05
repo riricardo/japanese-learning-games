@@ -1,7 +1,9 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-export default defineConfig({
+const repositoryName = 'japanese-learning-games';
+
+export default defineConfig(({ command }) => ({
   plugins: [react()],
-  base: './',
-});
+  base: command === 'build' ? `/${repositoryName}/` : '/',
+}));
