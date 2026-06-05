@@ -35,7 +35,6 @@ export default function Quiz({ game, onBack }) {
   const [isFeedbackPromptOpen, setIsFeedbackPromptOpen] = useState(true);
   const [isResultOpen, setIsResultOpen] = useState(false);
   const [isAdvancing, setIsAdvancing] = useState(false);
-  const [quickFeedback, setQuickFeedback] = useState(null);
   const [status, setStatus] = useState('loading');
   const [error, setError] = useState('');
 
@@ -119,14 +118,10 @@ export default function Quiz({ game, onBack }) {
     }
 
     setIsAdvancing(true);
-    setQuickFeedback({
-      isCorrect: answer.isCorrect,
-      text: answer.isCorrect ? '✓ Correct' : '✕ Incorrect',
-    });
+    setSelectedAnswer(answer);
 
     setTimeout(() => {
       showNextQuestion();
-      setQuickFeedback(null);
       setIsAdvancing(false);
     }, 700);
   }
@@ -137,7 +132,6 @@ export default function Quiz({ game, onBack }) {
     setAnswerOptions(shuffle(nextQuestion.answerOptions || []));
     setSelectedAnswer(null);
     setIsResultOpen(false);
-    setQuickFeedback(null);
   }
 
   function closeResultAndContinue() {
@@ -179,6 +173,7 @@ export default function Quiz({ game, onBack }) {
             selectedAnswer={selectedAnswer}
             onSelectAnswer={handleAnswer}
             isLocked={isAdvancing || isFeedbackPromptOpen}
+            revealCorrectAnswer={showFeedback}
           />
           <ScoreBoard
             score={score}
@@ -203,7 +198,7 @@ export default function Quiz({ game, onBack }) {
             </div>
             <p>
               Feedback opens a result modal after each answer with the explanation and hint. You can also
-              skip it and move straight to the next question with a quick toast.
+              skip it and let the selected answer flash green or red before the next question.
             </p>
             <div className="modal-actions">
               <button className="primary-button" type="button" onClick={() => chooseFeedbackMode(true)}>
@@ -214,16 +209,6 @@ export default function Quiz({ game, onBack }) {
               </button>
             </div>
           </section>
-        </div>
-      )}
-
-      {quickFeedback && (
-        <div
-          className={quickFeedback.isCorrect ? 'quick-feedback correct-toast' : 'quick-feedback wrong-toast'}
-          role="status"
-          aria-live="polite"
-        >
-          {quickFeedback.text}
         </div>
       )}
 

@@ -4,6 +4,7 @@ export default function QuestionCard({
   selectedAnswer,
   onSelectAnswer,
   isLocked = false,
+  revealCorrectAnswer = true,
 }) {
   const hasAnswered = Boolean(selectedAnswer);
 
@@ -12,12 +13,12 @@ export default function QuestionCard({
       return 'answer-button';
     }
 
-    if (option.isCorrect) {
-      return 'answer-button correct-answer';
+    if (option === selectedAnswer) {
+      return option.isCorrect ? 'answer-button correct-answer' : 'answer-button wrong-answer';
     }
 
-    if (option === selectedAnswer) {
-      return 'answer-button wrong-answer';
+    if (revealCorrectAnswer && option.isCorrect) {
+      return 'answer-button correct-answer';
     }
 
     return 'answer-button muted-answer';
