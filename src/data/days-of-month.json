@@ -1,0 +1,808 @@
+[
+  {
+    "question": "How do you say \"Day 1\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "ついたち",
+        "rationale": "This is the special reading for day 1.",
+        "isCorrect": true
+      },
+      {
+        "text": "いちにち",
+        "rationale": "いちにち can mean a whole day, but it is not the reading used for the first day of the month.",
+        "isCorrect": false
+      },
+      {
+        "text": "ふつか",
+        "rationale": "This reading corresponds to day 2.",
+        "isCorrect": false
+      },
+      {
+        "text": "いっか",
+        "rationale": "This is not the traditional reading for day 1 of the month.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The first day of the month uses a special reading."
+  },
+  {
+    "question": "How do you say \"Day 2\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "ついたち",
+        "rationale": "This reading corresponds to day 1.",
+        "isCorrect": false
+      },
+      {
+        "text": "ふつか",
+        "rationale": "This is the special reading for day 2.",
+        "isCorrect": true
+      },
+      {
+        "text": "みっか",
+        "rationale": "This reading corresponds to day 3.",
+        "isCorrect": false
+      },
+      {
+        "text": "ににち",
+        "rationale": "Days 1 to 10 use traditional special readings.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 2 uses a traditional Japanese reading."
+  },
+  {
+    "question": "How do you say \"Day 3\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "ふつか",
+        "rationale": "This reading corresponds to day 2.",
+        "isCorrect": false
+      },
+      {
+        "text": "みっか",
+        "rationale": "This is the special reading for day 3.",
+        "isCorrect": true
+      },
+      {
+        "text": "よっか",
+        "rationale": "This reading indicates day 4.",
+        "isCorrect": false
+      },
+      {
+        "text": "さんにち",
+        "rationale": "Days 1 to 10 use traditional special readings.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "The initial sound is based on the traditional Japanese count for the number three."
+  },
+  {
+    "question": "How do you say \"Day 4\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "よっか",
+        "rationale": "This is the special reading for day 4.",
+        "isCorrect": true
+      },
+      {
+        "text": "よんにち",
+        "rationale": "The reading for day 4 of the month is special.",
+        "isCorrect": false
+      },
+      {
+        "text": "いつか",
+        "rationale": "This reading corresponds to day 5.",
+        "isCorrect": false
+      },
+      {
+        "text": "みっか",
+        "rationale": "This reading corresponds to day 3.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 4 does not use よんにち."
+  },
+  {
+    "question": "How do you say \"Day 5\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "ごにち",
+        "rationale": "The reading for day 5 of the month is special.",
+        "isCorrect": false
+      },
+      {
+        "text": "いつか",
+        "rationale": "This is the special reading for day 5.",
+        "isCorrect": true
+      },
+      {
+        "text": "むいか",
+        "rationale": "This reading corresponds to day 6.",
+        "isCorrect": false
+      },
+      {
+        "text": "よっか",
+        "rationale": "This reading corresponds to day 4.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 5 uses a short reading ending in か."
+  },
+  {
+    "question": "How do you say \"Day 6\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "むいか",
+        "rationale": "This is the special reading for day 6.",
+        "isCorrect": true
+      },
+      {
+        "text": "ろくにち",
+        "rationale": "The reading for day 6 of the month is special.",
+        "isCorrect": false
+      },
+      {
+        "text": "なのか",
+        "rationale": "This reading corresponds to day 7.",
+        "isCorrect": false
+      },
+      {
+        "text": "いつか",
+        "rationale": "This reading corresponds to day 5.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 6 follows the traditional Japanese reading."
+  },
+  {
+    "question": "How do you say \"Day 7\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "ななにち",
+        "rationale": "The reading for day 7 of the month is special.",
+        "isCorrect": false
+      },
+      {
+        "text": "なのか",
+        "rationale": "This is the special reading for day 7.",
+        "isCorrect": true
+      },
+      {
+        "text": "ようか",
+        "rationale": "This reading corresponds to day 8.",
+        "isCorrect": false
+      },
+      {
+        "text": "むいか",
+        "rationale": "This reading corresponds to day 6.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 7 uses a traditional reading ending in のか."
+  },
+  {
+    "question": "How do you say \"Day 8\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "ようか",
+        "rationale": "This is the special reading for day 8.",
+        "isCorrect": true
+      },
+      {
+        "text": "はちにち",
+        "rationale": "The reading for day 8 of the month is special.",
+        "isCorrect": false
+      },
+      {
+        "text": "ここのか",
+        "rationale": "This reading corresponds to day 9.",
+        "isCorrect": false
+      },
+      {
+        "text": "なのか",
+        "rationale": "This reading corresponds to day 7.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 8 does not use はちにち."
+  },
+  {
+    "question": "How do you say \"Day 9\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "きゅうにち",
+        "rationale": "The reading for day 9 of the month is special.",
+        "isCorrect": false
+      },
+      {
+        "text": "ここのか",
+        "rationale": "This is the special reading for day 9.",
+        "isCorrect": true
+      },
+      {
+        "text": "とおか",
+        "rationale": "This reading corresponds to day 10.",
+        "isCorrect": false
+      },
+      {
+        "text": "ようか",
+        "rationale": "This reading corresponds to day 8.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 9 uses a traditional reading similar to the Japanese count for nine."
+  },
+  {
+    "question": "How do you say \"Day 10\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうにち",
+        "rationale": "The reading for day 10 of the month is special.",
+        "isCorrect": false
+      },
+      {
+        "text": "とおか",
+        "rationale": "This is the special reading for day 10.",
+        "isCorrect": true
+      },
+      {
+        "text": "ここのか",
+        "rationale": "This reading corresponds to day 9.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅういちにち",
+        "rationale": "This reading corresponds to day 11.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 10 is the last of the early days with a very special reading."
+  },
+  {
+    "question": "How do you say \"Day 11\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅういちにち",
+        "rationale": "From day 11 onward, the number is generally followed by にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅういつか",
+        "rationale": "This is not the reading used for day 11.",
+        "isCorrect": false
+      },
+      {
+        "text": "とおか",
+        "rationale": "This reading corresponds to day 10.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうににち",
+        "rationale": "This reading corresponds to day 12.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "After day 10, the rule becomes more regular."
+  },
+  {
+    "question": "How do you say \"Day 12\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうににち",
+        "rationale": "The reading combines じゅうに with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうふつか",
+        "rationale": "This is not the reading used for day 12.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅういちにち",
+        "rationale": "This reading corresponds to day 11.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうさんにち",
+        "rationale": "This reading corresponds to day 13.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 12 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 13\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうさんにち",
+        "rationale": "The reading combines じゅうさん with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうみっか",
+        "rationale": "This is not the reading used for day 13.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうににち",
+        "rationale": "This reading corresponds to day 12.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうよっか",
+        "rationale": "This reading corresponds to day 14.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 13 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 14\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうよんにち",
+        "rationale": "Day 14 uses the special form with よっか.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうよっか",
+        "rationale": "This is the correct reading for day 14.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうしにち",
+        "rationale": "This is not the reading used for day 14.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうごにち",
+        "rationale": "This reading corresponds to day 15.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 14 reuses the special form from day 4."
+  },
+  {
+    "question": "How do you say \"Day 15\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうごにち",
+        "rationale": "The reading combines じゅうご with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅういつか",
+        "rationale": "This is not the reading used for day 15.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうよっか",
+        "rationale": "This reading corresponds to day 14.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうろくにち",
+        "rationale": "This reading corresponds to day 16.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 15 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 16\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうろくにち",
+        "rationale": "The reading combines じゅうろく with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうむいか",
+        "rationale": "This is not the reading used for day 16.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうごにち",
+        "rationale": "This reading corresponds to day 15.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうしちにち",
+        "rationale": "This reading corresponds to day 17.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 16 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 17\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうななにち",
+        "rationale": "For day 17, the most common reading is じゅうしちにち.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうしちにち",
+        "rationale": "The reading combines じゅうしち with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうなのか",
+        "rationale": "This is not the reading used for day 17.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうはちにち",
+        "rationale": "This reading corresponds to day 18.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "For 17, use しち in the number reading."
+  },
+  {
+    "question": "How do you say \"Day 18\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうはちにち",
+        "rationale": "The reading combines じゅうはち with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうようか",
+        "rationale": "This is not the reading used for day 18.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうしちにち",
+        "rationale": "This reading corresponds to day 17.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうくにち",
+        "rationale": "This reading corresponds to day 19.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 18 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 19\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "じゅうきゅうにち",
+        "rationale": "For day 19, the most common reading is じゅうくにち.",
+        "isCorrect": false
+      },
+      {
+        "text": "じゅうくにち",
+        "rationale": "The reading combines じゅうく with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうここのか",
+        "rationale": "This is not the reading used for day 19.",
+        "isCorrect": false
+      },
+      {
+        "text": "はつか",
+        "rationale": "This reading corresponds to day 20.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "For 19, use く in the number reading."
+  },
+  {
+    "question": "How do you say \"Day 20\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうにち",
+        "rationale": "Day 20 uses a special reading.",
+        "isCorrect": false
+      },
+      {
+        "text": "はつか",
+        "rationale": "This is the special reading for day 20.",
+        "isCorrect": true
+      },
+      {
+        "text": "じゅうくにち",
+        "rationale": "This reading corresponds to day 19.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅういちにち",
+        "rationale": "This reading corresponds to day 21.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 20 is an important exception."
+  },
+  {
+    "question": "How do you say \"Day 21\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅういちにち",
+        "rationale": "The reading combines にじゅういち with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうついたち",
+        "rationale": "This is not the reading used for day 21.",
+        "isCorrect": false
+      },
+      {
+        "text": "はつか",
+        "rationale": "This reading corresponds to day 20.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうににち",
+        "rationale": "This reading corresponds to day 22.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "After 20, return to the number + にち pattern, with exceptions at 24."
+  },
+  {
+    "question": "How do you say \"Day 22\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうににち",
+        "rationale": "The reading combines にじゅうに with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうふつか",
+        "rationale": "This is not the reading used for day 22.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅういちにち",
+        "rationale": "This reading corresponds to day 21.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうさんにち",
+        "rationale": "This reading corresponds to day 23.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 22 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 23\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうさんにち",
+        "rationale": "The reading combines にじゅうさん with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうみっか",
+        "rationale": "This is not the reading used for day 23.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうににち",
+        "rationale": "This reading corresponds to day 22.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうよっか",
+        "rationale": "This reading corresponds to day 24.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 23 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 24\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうよんにち",
+        "rationale": "Day 24 uses the special form with よっか.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうよっか",
+        "rationale": "This is the correct reading for day 24.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうしにち",
+        "rationale": "This is not the reading used for day 24.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうごにち",
+        "rationale": "This reading corresponds to day 25.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Day 24 reuses the special form from day 4."
+  },
+  {
+    "question": "How do you say \"Day 25\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうごにち",
+        "rationale": "The reading combines にじゅうご with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅういつか",
+        "rationale": "This is not the reading used for day 25.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうよっか",
+        "rationale": "This reading corresponds to day 24.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうろくにち",
+        "rationale": "This reading corresponds to day 26.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 25 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 26\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうろくにち",
+        "rationale": "The reading combines にじゅうろく with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうむいか",
+        "rationale": "This is not the reading used for day 26.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうごにち",
+        "rationale": "This reading corresponds to day 25.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうしちにち",
+        "rationale": "This reading corresponds to day 27.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 26 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 27\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうななにち",
+        "rationale": "For day 27, the most common reading is にじゅうしちにち.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうしちにち",
+        "rationale": "The reading combines にじゅうしち with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうなのか",
+        "rationale": "This is not the reading used for day 27.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうはちにち",
+        "rationale": "This reading corresponds to day 28.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "For 27, use しち in the number reading."
+  },
+  {
+    "question": "How do you say \"Day 28\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうはちにち",
+        "rationale": "The reading combines にじゅうはち with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうようか",
+        "rationale": "This is not the reading used for day 28.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうしちにち",
+        "rationale": "This reading corresponds to day 27.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうくにち",
+        "rationale": "This reading corresponds to day 29.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 28 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 29\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "にじゅうきゅうにち",
+        "rationale": "For day 29, the most common reading is にじゅうくにち.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうくにち",
+        "rationale": "The reading combines にじゅうく with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "にじゅうここのか",
+        "rationale": "This is not the reading used for day 29.",
+        "isCorrect": false
+      },
+      {
+        "text": "さんじゅうにち",
+        "rationale": "This reading corresponds to day 30.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "For 29, use く in the number reading."
+  },
+  {
+    "question": "How do you say \"Day 30\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "さんじゅうにち",
+        "rationale": "The reading combines さんじゅう with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "みそか",
+        "rationale": "みそか is an older/special term, but さんじゅうにち is the standard quiz answer here.",
+        "isCorrect": false
+      },
+      {
+        "text": "にじゅうくにち",
+        "rationale": "This reading corresponds to day 29.",
+        "isCorrect": false
+      },
+      {
+        "text": "さんじゅういちにち",
+        "rationale": "This reading corresponds to day 31.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 30 followed by にち."
+  },
+  {
+    "question": "How do you say \"Day 31\" in Japanese?",
+    "answerOptions": [
+      {
+        "text": "さんじゅういちにち",
+        "rationale": "The reading combines さんじゅういち with にち.",
+        "isCorrect": true
+      },
+      {
+        "text": "さんじゅうついたち",
+        "rationale": "This is not the reading used for day 31.",
+        "isCorrect": false
+      },
+      {
+        "text": "さんじゅうにち",
+        "rationale": "This reading corresponds to day 30.",
+        "isCorrect": false
+      },
+      {
+        "text": "さんじゅうににち",
+        "rationale": "This date does not exist in common months.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "Use the number 31 followed by にち."
+  }
+]
